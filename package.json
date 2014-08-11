@@ -1,0 +1,26 @@
+{
+  "name": "expressApp",
+  "version": "0.0.1",
+  "description": "Express App with EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  "express" : "*",
+  "ejs": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/richardwlu/expressApp.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "richardwlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardwlu/expressApp/issues"
+  },
+  "homepage": "https://github.com/richardwlu/expressApp"
+}
